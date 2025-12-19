@@ -1,0 +1,7 @@
+{
+  "name": "单词达人--乐乐",
+  "description": "An intelligent vocabulary learning tool designed for junior high students. Upload your own word lists, or use the AI to generate definitions, examples, and phonetic guides instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
